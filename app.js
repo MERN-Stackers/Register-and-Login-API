@@ -119,3 +119,6 @@ app.put("/change-password", async (request, response) => {
 });
 
 module.exports = app;
+
+// Register and Login Api
+// knjun kjno knj 
