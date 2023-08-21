@@ -8,6 +8,7 @@ const dbPath = path.join(__dirname, "userData.db");
 const app = express();
 app.use(express.json());
 
+
 let db = null;
 const initializeDbAndServer = async () => {
   try {
