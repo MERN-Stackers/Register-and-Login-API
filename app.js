@@ -62,7 +62,6 @@ app.post("/register", async (request, response) => {
   }
 });
 
-
 //Login API
 
 app.post("/login", async (request, response) => {
